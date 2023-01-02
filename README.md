@@ -58,6 +58,14 @@ CONCLUSION:
   * Another bivariate plot between Systolic and diastolic BP shows that they are positivly correalted and with increase in any of this values increses the ridk of cardiovascular diseases.
   * Orderwise correlation shows that age and systolic pressure highly affect our dependent variable.
 
+## Model Training :-
+
+* Our dependent variable is "TenyearCHD" which determines, people having cardiovascular issue in ten years of span.
+* We tried 5 different algorithms for model training namely, logistic regression, KNN, Naive-Bayes, XGBclassifier, RandomForestClassifier.
+* Evalution metrics for this project were f1 score and recall, as our data was highly imbalance it would have given us false accuracy, f1 which is the averge of presicion and recall might give us better predictions than accuracy. In our case no of False negatives can have a huge bussiness cost, therefore, instead of precision recall is the more appropiate metrics for evalution. 
+* Out of all the five algorithms KNN was found to be more efficient for model training as it has 0.98 F1 score
+* So we tried setting an optimum hyperparameter to prevent overfitting of the model. 
+
 
 
 
