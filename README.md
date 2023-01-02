@@ -11,15 +11,9 @@ Approaches:-
 
 ![COLUMNS](https://user-images.githubusercontent.com/112775752/210253638-ae397c65-9e73-43c7-8e8e-18348235e754.png)
 
-![DESCRIBE](https://user-images.githubusercontent.com/112775752/210253652-0f4af5f1-ee57-4b8b-943d-05d4fd28863f.png)
-
 Next step being data analysis and visualization, where we analyzed our data distribution as univariate, bivariate and multivariate plots. Multicollinearity check was performed.
 
-![BP MEDS](https://user-images.githubusercontent.com/112775752/210253696-88d8f995-29d5-4c78-b4cb-2fc8cd84b2bc.png)
-
-![DIABETES](https://user-images.githubusercontent.com/112775752/210253716-1ad35467-e920-47c7-b085-93916ca79d13.png)
-
-![GENDER](https://user-images.githubusercontent.com/112775752/210253729-616fd972-6dc1-4e0d-be7b-be5c0d02e0f3.png)
+![BP MEDS](https://user-images.githubusercontent.com/112775752/210253696-88d8f995-29d5-4c78-b4cb-2fc8cd84b2bc.png)    ![DIABETES](https://user-images.githubusercontent.com/112775752/210253716-1ad35467-e920-47c7-b085-93916ca79d13.png)  ![GENDER](https://user-images.githubusercontent.com/112775752/210253729-616fd972-6dc1-4e0d-be7b-be5c0d02e0f3.png)
 
 ![SYSDIAS](https://user-images.githubusercontent.com/112775752/210253786-a0fde639-f930-492b-af0b-79148d118276.png)
 
